@@ -1,0 +1,24 @@
+Tools For Data Science
+
+Raw Data passes through
+
+Data Management - Collecting and retrieving dsts
+Data integration and transformation - ETL
+Data visualisation
+Model building
+Model deployment
+Model monitoring and assessment
+
+Data Management - Relational Db -  MySQL, PostgreSQL
+		- NoSQL - MongoDB, Apache CouchDB, Apache cassandra
+		- Filebased Tools - Hadoop File Sys, Elasticsearch
+
+Data Integration and transformation - Refining And Cleansing
+Airflow = Airbnb, Kubeflow, Apache kafka - linkedin, Apache nifi,SparkSQL, Node-RED
+
+Data Visualisation - PixieDust, Hue, Kibana, Superset
+
+Model Deployment - Apache PredictionIO, SELDOM, mleap, TensorFlow
+
+Model Monitoring - ModelDB, Prometheus
+
